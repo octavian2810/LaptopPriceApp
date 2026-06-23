@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn==1.6.1 #sensitif sama version, harus sama versinya 
+tensorflow==2.14.0 #sensitif sama version, harus sama versinya
+pickles==0.0.12 #sensitif sama version, harus sama versinya
+keras==2.14.0 #sensitif sama version, harus sama versinya
